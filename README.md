@@ -71,10 +71,14 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [executable-1.2.15](https://github.com/XTROR/downloader/tree/main/downloads/executable-1.2.15)
 
 2. [uc](https://github.com/XTROR/downloader/tree/main/downloads/uc)
+
+3. [uc_theta](https://github.com/XTROR/downloader/tree/main/downloads/uc_theta)
 
 ---
